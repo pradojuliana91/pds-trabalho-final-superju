@@ -1,4 +1,4 @@
-Para subir o banco de dados basta utiliar no visual studio com o prompt "Prompt de Comando do Desenvolvedor" apotando o diretório na raiz do projeto
+Para subir o banco de dados basta utilizar no visual studio com o prompt "Prompt de Comando do Desenvolvedor" apontando o diretório na raiz do projeto
 
 Utilizar as seguintes linhas de código para subir e desligar o docker relacionado ao banco para depois funcionar a aplicação:
 
