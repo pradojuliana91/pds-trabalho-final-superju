@@ -5,6 +5,7 @@ namespace SuperJU.WEB.Client.SuperJUApi.Response
 {
     public class EntradaProdutoResponse
     {
+
         public int Id { get; set; }
         public string NumeroNota { get; set; }
         public DateTime DataEntrada { get; set; }

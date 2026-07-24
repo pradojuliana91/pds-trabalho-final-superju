@@ -6,6 +6,7 @@ namespace SuperJU.API.Domain.Repository
 {
     public class ProdutoRepository : IProdutoRepository
     {
+
         private readonly string connectionString;
 
         public ProdutoRepository(IConfiguration configuration)

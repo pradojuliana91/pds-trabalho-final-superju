@@ -5,6 +5,7 @@ namespace SuperJU.WEB.Client.SuperJUApi.Response
 {
     public class PedidoResponse
     {
+
         public int Id { get; set; }
         public int ClienteId { get; set; }
         public string ClienteNome { get; set; }

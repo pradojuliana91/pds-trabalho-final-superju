@@ -6,6 +6,7 @@ using Microsoft.AspNet.FriendlyUrls;
 
 namespace SuperJU.WEB
 {
+
     public static class RouteConfig
     {
         public static void RegisterRoutes(RouteCollection routes)

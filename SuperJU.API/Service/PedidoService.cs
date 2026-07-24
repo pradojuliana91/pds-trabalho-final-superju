@@ -6,6 +6,7 @@ using SuperJU.API.Exceptions;
 
 namespace SuperJU.API.Service
 {
+
     public class PedidoService : IPedidoService
     {
         private readonly IPedidoRepository pedidoRepository;

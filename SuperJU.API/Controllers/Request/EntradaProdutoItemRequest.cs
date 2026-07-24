@@ -2,6 +2,7 @@
 {
     public class EntradaProdutoItemRequest
     {
+
         public int? ProdutoId { get; set; }
         public int? Quantidade { get; set; }
         public decimal? ValorCusto { get; set; }

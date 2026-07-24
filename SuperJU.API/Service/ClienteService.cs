@@ -6,6 +6,7 @@ using SuperJU.API.Exceptions;
 
 namespace SuperJU.API.Service
 {
+
     public class ClienteService : IClienteService
     {
         private readonly IClienteRepository clienteRepository;

@@ -2,6 +2,7 @@
 {
     public class PedidoCadastroResponse
     {
+
         public int Id { get; set; }
     }
 }

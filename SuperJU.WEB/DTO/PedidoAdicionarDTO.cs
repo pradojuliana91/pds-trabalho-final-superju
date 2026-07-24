@@ -6,6 +6,7 @@ using System.Web.UI.WebControls;
 
 namespace SuperJU.WEB.DTO
 {
+
     public class PedidoAdicionarDTO
     {
         public int ProdutoId { get; set; }

@@ -6,6 +6,7 @@ using System.Web.UI;
 
 namespace SuperJU.WEB.Utils
 {
+
     public static class CommonUtils
     {
         public static void Alerta(Page page, string msg)

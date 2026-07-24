@@ -2,6 +2,7 @@
 {
     public class EntradaProdutoItem
     {
+
         public int Id { get; set; }
         public int EntradaProdutoId { get; set; }
         public int ProdutoId { get; set; }

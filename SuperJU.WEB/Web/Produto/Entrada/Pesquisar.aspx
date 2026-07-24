@@ -6,6 +6,7 @@
             $('#txtDataEntradaFim').inputmask('99/99/9999');
         })
     </script>
+
     <div class="container">
         <div>
             <h1>Pesquisa Entrada de Produtos</h1>

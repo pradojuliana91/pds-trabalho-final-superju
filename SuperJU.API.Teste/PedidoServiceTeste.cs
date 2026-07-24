@@ -8,6 +8,7 @@ using SuperJU.API.Controllers.Response;
 
 namespace SuperJU.API.Teste
 {
+
     public class PedidoServiceTeste
     {
         [Fact]

@@ -5,6 +5,7 @@ using System.Web;
 
 namespace SuperJU.WEB.Client.SuperJUApi.Request
 {
+
     public class EntradaProdutoItemRequest
     {
         public int ProdutoId { get; set; }

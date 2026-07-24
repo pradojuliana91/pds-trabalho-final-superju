@@ -8,6 +8,7 @@ namespace SuperJU.API.Service
 {
     public interface IProdutoService
     {
+
         List<ProdutoResponse> Pesquisar(int? id, string? nome);
         ProdutoResponse BuscarPorId(int id);
         ProdutoCadastroResponse Cadastrar(ProdutoCadastroRequest produtoRequest);

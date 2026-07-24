@@ -2,6 +2,7 @@
 {
     public class ClienteCadastroResponse
     {
+
         public int Id { get; set; }
     }
 }

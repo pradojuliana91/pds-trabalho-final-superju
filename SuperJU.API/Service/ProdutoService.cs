@@ -8,6 +8,7 @@ namespace SuperJU.API.Service
 {
     public class ProdutoService : IProdutoService
     {
+
         private readonly IProdutoRepository produtoRepository;
         private readonly IEntradaProdutoRepository entradaProdutoRepository;
         private readonly IEntradaProdutoItemRepository entradaProdutoItemRepository;

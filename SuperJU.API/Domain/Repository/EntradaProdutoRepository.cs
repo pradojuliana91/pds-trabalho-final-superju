@@ -3,6 +3,7 @@ using System.Data.SqlClient;
 
 namespace SuperJU.API.Domain.Repository
 {
+
     public class EntradaProdutoRepository : IEntradaProdutoRepository
     {
         private readonly string connectionString;

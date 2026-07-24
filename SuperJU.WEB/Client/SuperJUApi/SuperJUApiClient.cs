@@ -16,6 +16,7 @@ using System.Web.UI;
 
 namespace SuperJU.WEB.Client.SuperJUApi
 {
+
     public static class SuperJUApiClient
     {
         private static readonly string SUPER_JU_API_URL = ConfigurationManager.AppSettings.Get("SUPER_JU_API_URL");

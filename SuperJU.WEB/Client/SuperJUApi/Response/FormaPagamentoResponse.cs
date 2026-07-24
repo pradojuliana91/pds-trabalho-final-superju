@@ -5,6 +5,7 @@ using System.Web;
 
 namespace SuperJU.WEB.Client.SuperJUApi.Response
 {
+
     public class FormaPagamentoResponse
     {
         public int Id { get; set; }

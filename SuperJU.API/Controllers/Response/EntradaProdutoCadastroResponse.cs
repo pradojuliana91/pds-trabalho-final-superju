@@ -2,6 +2,7 @@
 {
     public class EntradaProdutoCadastroResponse
     {
+
         public int Id { get; set; }
     }
 }

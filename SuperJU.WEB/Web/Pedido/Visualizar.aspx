@@ -6,6 +6,7 @@
             $("#txtValorTotalPedido").maskMoney({ prefix: 'R$ ', allowNegative: true, thousands: '.', decimal: ',', affixesStay: false });
         })
     </script>
+
     <div class="container">
         <div>
             <h1>Visualizar Pedido</h1>

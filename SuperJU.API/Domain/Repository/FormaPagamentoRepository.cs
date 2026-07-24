@@ -3,6 +3,7 @@ using System.Data.SqlClient;
 
 namespace SuperJU.API.Domain.Repository
 {
+
     public class FormaPagamentoRepository : IFormaPagamentoRepository
     {
         private readonly string connectionString;

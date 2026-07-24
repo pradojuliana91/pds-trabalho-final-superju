@@ -5,6 +5,7 @@
         <div>
             <h1>Visualiza Entrada de Produtos</h1>
         </div>
+
         <div class="row g-3">
             <div class="col-md-3">
                 <label for="txtNumeroNota" class="form-label">Nº Nota</label>

@@ -7,6 +7,7 @@ using SuperJU.API.Controllers.Request;
 
 namespace SuperJU.API.Teste
 {
+
     public class ClienteServiceTeste
     {
         [Fact]

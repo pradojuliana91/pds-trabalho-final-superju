@@ -2,6 +2,7 @@
 {
     public class EntradaProdutoResponse
     {
+
         public int Id { get; set; }
         public required string NumeroNota { get; set; }
         public DateTime DataEntrada { get; set; }

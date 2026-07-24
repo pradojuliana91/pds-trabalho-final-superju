@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace SuperJU.WEB.Client.SuperJUApi.Request
 {
+
     public class ProdutoCadastroRequest
     {
         public string Nome { get; set; }

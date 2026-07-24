@@ -5,6 +5,7 @@ using System.Web;
 
 namespace SuperJU.WEB.DTO
 {
+
     public class EntradaProdutoAdicionarDTO
     {
         public int ProdutoId { get; set; }

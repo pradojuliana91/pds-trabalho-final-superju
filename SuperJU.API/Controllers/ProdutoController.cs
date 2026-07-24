@@ -7,6 +7,7 @@ using System.Net;
 
 namespace SuperJU.API.Controllers
 {
+
     [ApiController]
     [Route("produtos")]
     public class ProdutoController : ControllerBase

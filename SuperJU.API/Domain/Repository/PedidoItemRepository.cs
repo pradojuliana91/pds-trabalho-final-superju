@@ -5,6 +5,7 @@ namespace SuperJU.API.Domain.Repository
 {
     public class PedidoItemRepository : IPedidoItemRepository
     {
+
         private readonly string connectionString;
 
         public PedidoItemRepository(IConfiguration configuration)

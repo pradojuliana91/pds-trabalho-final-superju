@@ -2,6 +2,7 @@
 {
     public class PedidoRequest
     {
+
         public int? ClienteId { get; set; }
         public int? FormaPagamentoId { get; set; }
         public decimal? ValorTotal { get; set; }

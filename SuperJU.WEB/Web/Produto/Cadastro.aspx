@@ -6,6 +6,7 @@
             $("#txtValorVenda").maskMoney({ prefix: 'R$ ', allowNegative: false, thousands: '.', decimal: ',', affixesStay: false });
         })
     </script>
+
     <div class="container">
         <div>
             <h1>Cadastro Produto</h1>

@@ -2,6 +2,7 @@
 {
     public class RelEstoqueResponse
     {
+
         public int ProdutoId { get; set; }  
         public required string ProdutoNome {  get; set; }    
         public decimal ValorCusto { get; set; } 

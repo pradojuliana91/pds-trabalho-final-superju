@@ -6,6 +6,7 @@ using System.Web.UI.WebControls;
 
 namespace SuperJU.WEB.Client.SuperJUApi.Response
 {
+
     public class RelVendaResponse
     {
         public int PedidoId { get; set; }  

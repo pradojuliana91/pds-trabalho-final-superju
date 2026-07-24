@@ -6,6 +6,7 @@ using SuperJU.API.Exceptions;
 
 namespace SuperJU.API.Service
 {
+
     public interface IPedidoService
     {
         List<PedidoResponse> Pesquisa(int? pedidoId, int? clienteId, int? formaPagamentoId, DateTime? dataInicio, DateTime? dataFim);

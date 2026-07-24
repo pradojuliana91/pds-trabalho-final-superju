@@ -5,6 +5,7 @@ namespace SuperJU.API.Service
 {
     public interface IClienteService
     {
+
         List<ClienteResponse> Pesquisar(int? id, string? nome);
         ClienteResponse BuscarPorId(int id);
         ClienteCadastroResponse Cadastrar(ClienteCadstroEditarRequest clienteRequest);

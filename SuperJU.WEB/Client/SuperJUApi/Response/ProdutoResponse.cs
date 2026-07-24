@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace SuperJU.WEB.Client.SuperJUApi.Response
 {
+
     public class ProdutoResponse
     {
         public int Id { get; set; }

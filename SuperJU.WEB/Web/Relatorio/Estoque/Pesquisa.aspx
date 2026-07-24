@@ -20,6 +20,7 @@
             });
         })
     </script>
+
     <div class="container">
         <div>
             <h1>Relatório de Estoque</h1>

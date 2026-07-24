@@ -5,6 +5,7 @@ namespace SuperJU.API.Domain.Repository
 {
     public interface IProdutoRepository
     {
+
         List<Produto>? Pesquisar(int? id, string? nome);
         Produto? BuscaPorId(int id);
         int Inserir(Produto produto);
