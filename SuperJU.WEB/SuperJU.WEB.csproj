@@ -137,6 +137,7 @@
   <ItemGroup>
     <Content Include="img\carrinho-de-compras-rapido.ico" />
     <Content Include="img\supermercado.jpg" />
+    <Content Include="Login.aspx" />
     <Content Include="Scripts\jquery.inputmask.min.js" />
     <Content Include="Scripts\jquery.maskMoney.min.js" />
     <Content Include="Web\About.aspx" />
@@ -258,6 +259,13 @@
     <Compile Include="Client\SuperJUApi\SuperJUApiClient.cs" />
     <Compile Include="DTO\PedidoAdicionarDTO.cs" />
     <Compile Include="DTO\EntradaProdutoAdicionarDTO.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Utils\CommonUtils.cs" />
     <Compile Include="Web\About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>

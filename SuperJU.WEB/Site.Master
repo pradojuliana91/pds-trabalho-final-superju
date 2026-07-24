@@ -119,6 +119,7 @@
                         <li class=""><a class="" runat="server" href="~/Web/Relatorio/Venda/Pesquisa">Relatório Venda</a></li>
                         <li class=""><a class="" runat="server" href="~/Web/About">Sobre</a></li>
                         <li class=""><a class="" runat="server" href="~/Web/Contact">Contato</a></li>
+                        <li class=""><a class="" style="text-align:right" runat="server" href="~/Login">Olá, Juliana (SAIR)</a></li>
                     </ul>
                 </div>
             </div>
